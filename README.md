@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Poushali
-- 🌱 I’m currently an DevOps intern at Maersk
+- 🌱 I’m currently an Associate DevOps Engineer 
 - 📫 How to reach me -> poushali.chakraborty@maersk.com
 
 <!---
